@@ -1,0 +1,42 @@
+ol li{
+    background-color:yellow
+}
+.par{
+    color:green ;
+}
+.imp{
+    text-transform:uppercase
+}
+h1, h3{
+    color:red
+}
+.itl{
+    font-size: 40px; border:1px solid black; width:617px;
+}
+li em{
+    font-size:20px ;font-weight: 200;
+}
+li{
+    font-size:20px;
+}
+.top{
+    color:blue
+}
+.ja{
+    background-color:pink ;
+}
+.ali:hover{
+    font-weight:800px
+}
+.ver:hover{
+    color:green
+}
+.pre:hover{
+    color:black
+}
+.lar:hover{
+    color:orange
+}
+.amr:hover{
+    color:yellow
+}
