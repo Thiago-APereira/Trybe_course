@@ -1,0 +1,24 @@
+p {font-family:sans-serif ;
+    font-weight: 600;
+    font-size:3em ;
+}
+    body {
+        font-size:16px ;
+        font-style:italic;
+        line-height:22px;
+        text-align:justify;
+        text-decoration:overline ;
+    }
+    #am {
+        background-color:yellow ;
+    }
+    #vm {
+        background-color: red;
+    }
+    #mr {
+        background-color: brown;
+    }
+    h1{
+        color:orange;
+        font-size:65px;
+    }
