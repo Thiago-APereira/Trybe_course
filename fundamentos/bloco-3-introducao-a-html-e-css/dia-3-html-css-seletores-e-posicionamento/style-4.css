@@ -1,0 +1,24 @@
+body{
+    background-color:red;font-family:Arial, Helvetica, 'sans-serif'}
+.amr:hover{
+    border:5px solid yellow ; 
+}
+.roxo:hover{
+    border:5px solid purple;
+}
+.verde:hover{
+    border:5px solid green; 
+}
+.blk:hover{
+    border:5px solid black;
+}
+.wht:hover{
+    border:5px solid white;
+}
+h3, p, h1{
+    color:aliceblue; 
+}
+
+.verde{
+    font-size:25px
+}
