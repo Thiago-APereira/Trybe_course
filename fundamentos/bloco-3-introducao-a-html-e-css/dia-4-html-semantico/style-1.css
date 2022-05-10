@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+  }
+
+  .first {
+    background-color: rgb(235, 200, 84);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 200px;
+    display:inline-block ;
+    position:absolute;left:46.3%
+    
+  }
+
+  .second {
+    background-color: rgb(219, 219, 219);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+    display:inline-block;
+    position:absolute;
+    top: 130px;
+    left:39%;
+
+  }
+
+  .third {
+    background-color: rgb(170, 142, 106);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+    display:inline-block;
+    position:absolute;
+    top: 130px;
+    left:50%
+
+  }
+  .sec{
+      text-align: center;
+      display:inline-block;
+      position:absolute;
+      right:42.5%;
+      top: 180px;
+  }
