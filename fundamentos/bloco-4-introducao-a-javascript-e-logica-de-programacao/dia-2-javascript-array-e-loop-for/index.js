@@ -5,4 +5,9 @@ var resultados=0;
        resultado = resultado+numbers[ind];
        resultados = resultado/(numbers.length+1)
 }
-   console.log (resultados)
+   if(resultados>20){
+       console.log("valor maior que 20")
+   }
+   else{
+       console.log("valor menor ou igual a 20");
+   }
