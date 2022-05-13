@@ -3,5 +3,6 @@ var resultado= 0;
 var resultados=0;
     for(var ind= 0;ind < numbers.length;ind++){
        resultado = resultado+numbers[ind];
-    }
-    console.log(resultado);
+       resultados = resultado/(numbers.length+1)
+}
+   console.log (resultados)
